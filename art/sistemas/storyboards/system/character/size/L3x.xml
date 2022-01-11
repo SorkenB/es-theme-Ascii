@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+<view name="system, basic, detailed, grid, carousel, gamecarousel">
+
+<image name="personaje" extra="true">
+<maxSize>0.290 0.430</maxSize>
+<pos>0.0 0.570</pos>
+</image>
+
+<image name="personaje2" extra="true">
+<maxSize>0.290 0.430</maxSize>
+<pos>0.0 0.570</pos>
+</image>
+
+<image name="personaje3" extra="true">
+<maxSize>0.290 0.430</maxSize>
+<pos>0.0 0.570</pos>
+</image>
+
+</view>
+</theme>
