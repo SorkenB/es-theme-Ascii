@@ -51,8 +51,8 @@ Theme Weight  390 MB
   
 <!--  Modos de Vistas en sistema -->
 <subset name="systemview" displayName="${systemViewName}">
-<include name="ASCII ONLY WALLPAPER">./art/sistemas/systemview/ascii only wall.xml</include>
 <include name="ASCII WALLPAPER & VIDEO">./art/sistemas/systemview/ascii wallandvideo.xml</include>
+<include name="ASCII ONLY WALLPAPER">./art/sistemas/systemview/ascii only wall.xml</include>
 </subset>
 
 

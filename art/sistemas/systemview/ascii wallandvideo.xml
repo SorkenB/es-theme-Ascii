@@ -28,8 +28,7 @@
 </storyboard>
 <storyboard event="activate">
 <animation property="scale" to="1.4" duration="100" mode="easeOut" autoreverse="false" repeat="1"/>
-<animation property="scale" from="7" to="1.4" begin="28000" duration="700" mode="easeOut" autoreverse="false" repeat="1"/>
-<animation property="scale" from="7" to="1.4" begin="58000" duration="700" mode="easeOut" autoreverse="false" repeat="1"/>
+<animation property="scale" from="7" to="1.4" begin="100" duration="700" mode="easeOut" autoreverse="false" repeat="1"/>
 </storyboard>
 </image>
 
